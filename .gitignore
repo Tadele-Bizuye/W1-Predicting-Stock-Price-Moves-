@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook hidden files
+*.nbconvert.ipynb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Test output and coverage
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.zip
+*.tar.gz
+
+# Notebooks output (optional)
+output/
+
+# IDE specific
+.idea/
