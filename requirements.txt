@@ -1,1 +1,25 @@
+# Core packages
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
 
+# NLP tools
+nltk
+textblob
+wordcloud
+
+# Jupyter and environment
+jupyter
+notebook
+ipykernel
+
+# Date and time handling
+python-dateutil
+
+# Utilities
+tqdm
+
+# Optional: For file paths and configs
+python-dotenv
